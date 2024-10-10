@@ -7,13 +7,13 @@
 
 - 🌱 I’m currently learning **NextJS, Angular**
 
-- 👨‍💻 All of my projects are available at <a href="https://chiragkaushik.netlify.app/"/>Portfolio</a>
+- 👨‍💻 All of my projects are available at my <a href="https://chiragkaushik.netlify.app/"/>Portfolio</a>
 
 - 💬 Ask me about **MERN Stack**
 
 - 📫 How to reach me **chiragka2002@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1P3DedJz5W31tzk8-TN2MAV9XD4yJXgT2/view?usp=sharing](https://drive.google.com/file/d/1P3DedJz5W31tzk8-TN2MAV9XD4yJXgT2/view?usp=sharing)
+- 📄 Know about my experiences in my <a href="https://drive.google.com/file/d/1P3DedJz5W31tzk8-TN2MAV9XD4yJXgT2/view?usp=sharing">Resume</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
